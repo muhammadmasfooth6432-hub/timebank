@@ -1,0 +1,42 @@
+C:\Users\hajam\OneDrive\Desktop\group project\MovieTicketManagementSystem\MovieTicketManagementSystem\bin\Debug\MovieTicketManagementSystem.exe.config
+C:\Users\hajam\OneDrive\Desktop\group project\MovieTicketManagementSystem\MovieTicketManagementSystem\bin\Debug\MovieTicketManagementSystem.exe
+C:\Users\hajam\OneDrive\Desktop\group project\MovieTicketManagementSystem\MovieTicketManagementSystem\bin\Debug\MovieTicketManagementSystem.pdb
+C:\Users\hajam\OneDrive\Desktop\group project\MovieTicketManagementSystem\MovieTicketManagementSystem\bin\Debug\Telerik.WinControls.dll
+C:\Users\hajam\OneDrive\Desktop\group project\MovieTicketManagementSystem\MovieTicketManagementSystem\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\hajam\OneDrive\Desktop\group project\MovieTicketManagementSystem\MovieTicketManagementSystem\bin\Debug\TelerikCommon.dll
+C:\Users\hajam\OneDrive\Desktop\group project\MovieTicketManagementSystem\MovieTicketManagementSystem\bin\Debug\Telerik.WinControls.xml
+C:\Users\hajam\OneDrive\Desktop\group project\MovieTicketManagementSystem\MovieTicketManagementSystem\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\hajam\OneDrive\Desktop\group project\MovieTicketManagementSystem\MovieTicketManagementSystem\obj\Debug\MovieTicketManagementSystem.csproj.AssemblyReference.cache
+C:\Users\hajam\OneDrive\Desktop\group project\MovieTicketManagementSystem\MovieTicketManagementSystem\obj\Debug\MovieTicketManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\hajam\OneDrive\Desktop\group project\MovieTicketManagementSystem\MovieTicketManagementSystem\obj\Debug\MovieTicketManagementSystem.AddMovieForm.resources
+C:\Users\hajam\OneDrive\Desktop\group project\MovieTicketManagementSystem\MovieTicketManagementSystem\obj\Debug\MovieTicketManagementSystem.AddStaffForm.resources
+C:\Users\hajam\OneDrive\Desktop\group project\MovieTicketManagementSystem\MovieTicketManagementSystem\obj\Debug\MovieTicketManagementSystem.AdminForm.resources
+C:\Users\hajam\OneDrive\Desktop\group project\MovieTicketManagementSystem\MovieTicketManagementSystem\obj\Debug\MovieTicketManagementSystem.buyTicketForm.resources
+C:\Users\hajam\OneDrive\Desktop\group project\MovieTicketManagementSystem\MovieTicketManagementSystem\obj\Debug\MovieTicketManagementSystem.dasboardForm.resources
+C:\Users\hajam\OneDrive\Desktop\group project\MovieTicketManagementSystem\MovieTicketManagementSystem\obj\Debug\MovieTicketManagementSystem.Form1.resources
+C:\Users\hajam\OneDrive\Desktop\group project\MovieTicketManagementSystem\MovieTicketManagementSystem\obj\Debug\MovieTicketManagementSystem.Properties.Resources.resources
+C:\Users\hajam\OneDrive\Desktop\group project\MovieTicketManagementSystem\MovieTicketManagementSystem\obj\Debug\MovieTicketManagementSystem.RegForm.resources
+C:\Users\hajam\OneDrive\Desktop\group project\MovieTicketManagementSystem\MovieTicketManagementSystem\obj\Debug\MovieTicketManagementSystem.staffForm.resources
+C:\Users\hajam\OneDrive\Desktop\group project\MovieTicketManagementSystem\MovieTicketManagementSystem\obj\Debug\MovieTicketManagementSystem.csproj.GenerateResource.cache
+C:\Users\hajam\OneDrive\Desktop\group project\MovieTicketManagementSystem\MovieTicketManagementSystem\obj\Debug\MovieTicketManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\hajam\OneDrive\Desktop\group project\MovieTicketManagementSystem\MovieTicketManagementSystem\obj\Debug\MovieTicketManagementSystem.csproj.CopyComplete
+C:\Users\hajam\OneDrive\Desktop\group project\MovieTicketManagementSystem\MovieTicketManagementSystem\obj\Debug\MovieTicketManagementSystem.exe
+C:\Users\hajam\OneDrive\Desktop\group project\MovieTicketManagementSystem\MovieTicketManagementSystem\obj\Debug\MovieTicketManagementSystem.pdb
+C:\Users\FMT\Desktop\movie\MovieTicketManagementSystem\MovieTicketManagementSystem\bin\Debug\MovieTicketManagementSystem.exe.config
+C:\Users\FMT\Desktop\movie\MovieTicketManagementSystem\MovieTicketManagementSystem\bin\Debug\MovieTicketManagementSystem.exe
+C:\Users\FMT\Desktop\movie\MovieTicketManagementSystem\MovieTicketManagementSystem\bin\Debug\MovieTicketManagementSystem.pdb
+C:\Users\FMT\Desktop\movie\MovieTicketManagementSystem\MovieTicketManagementSystem\obj\Debug\MovieTicketManagementSystem.csproj.AssemblyReference.cache
+C:\Users\FMT\Desktop\movie\MovieTicketManagementSystem\MovieTicketManagementSystem\obj\Debug\MovieTicketManagementSystem.AddMovieForm.resources
+C:\Users\FMT\Desktop\movie\MovieTicketManagementSystem\MovieTicketManagementSystem\obj\Debug\MovieTicketManagementSystem.AddStaffForm.resources
+C:\Users\FMT\Desktop\movie\MovieTicketManagementSystem\MovieTicketManagementSystem\obj\Debug\MovieTicketManagementSystem.AdminForm.resources
+C:\Users\FMT\Desktop\movie\MovieTicketManagementSystem\MovieTicketManagementSystem\obj\Debug\MovieTicketManagementSystem.buyTicketForm.resources
+C:\Users\FMT\Desktop\movie\MovieTicketManagementSystem\MovieTicketManagementSystem\obj\Debug\MovieTicketManagementSystem.dasboardForm.resources
+C:\Users\FMT\Desktop\movie\MovieTicketManagementSystem\MovieTicketManagementSystem\obj\Debug\MovieTicketManagementSystem.Form1.resources
+C:\Users\FMT\Desktop\movie\MovieTicketManagementSystem\MovieTicketManagementSystem\obj\Debug\MovieTicketManagementSystem.Properties.Resources.resources
+C:\Users\FMT\Desktop\movie\MovieTicketManagementSystem\MovieTicketManagementSystem\obj\Debug\MovieTicketManagementSystem.RegForm.resources
+C:\Users\FMT\Desktop\movie\MovieTicketManagementSystem\MovieTicketManagementSystem\obj\Debug\MovieTicketManagementSystem.staffForm.resources
+C:\Users\FMT\Desktop\movie\MovieTicketManagementSystem\MovieTicketManagementSystem\obj\Debug\MovieTicketManagementSystem.csproj.GenerateResource.cache
+C:\Users\FMT\Desktop\movie\MovieTicketManagementSystem\MovieTicketManagementSystem\obj\Debug\MovieTicketManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\FMT\Desktop\movie\MovieTicketManagementSystem\MovieTicketManagementSystem\obj\Debug\MovieTic.321BFBA5.Up2Date
+C:\Users\FMT\Desktop\movie\MovieTicketManagementSystem\MovieTicketManagementSystem\obj\Debug\MovieTicketManagementSystem.exe
+C:\Users\FMT\Desktop\movie\MovieTicketManagementSystem\MovieTicketManagementSystem\obj\Debug\MovieTicketManagementSystem.pdb
